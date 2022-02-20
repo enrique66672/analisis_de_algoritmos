@@ -8,5 +8,9 @@ def in_data(number):
         in_data(number)
 
 
-in_data(1)
-print(vec)
+def main():
+    in_data(1)
+    print(vec)
+
+
+main()
